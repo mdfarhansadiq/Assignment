@@ -57,7 +57,7 @@ void Show()
 
 int main()
 {
-    int a, i;
+    int a, i, j;
     string in;
     char aa[30], bb[30], cc[30], dd[30], ee[30];
   
